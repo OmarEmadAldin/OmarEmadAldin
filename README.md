@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{https://github.com/OmarEmadAldin/OmarEmadAldin}/count.svg" alt="Visitor's Count" />
-</div>
-
 <!--
 **OmarEmadAldin/OmarEmadAldin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
