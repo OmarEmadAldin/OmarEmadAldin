@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Omar</h1>
-<h3 align="center">Robotics Engineer | Computer Vision | Embedded AI</h3>
+<h1 align="center">Hi 👋, I'm Omar Emad Eldin</h1>
+<h1 align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Robotics%20Engineer&fontSize=40&fontColor=ffffff" /> </h1>
 
 ---
 
