@@ -43,8 +43,8 @@ Feel free to reach out!
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" title="Git"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" title="Linux"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" title="Docker"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="55" title="ROS"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" title="MySQL"/>
-
 </p>
 
 ---
