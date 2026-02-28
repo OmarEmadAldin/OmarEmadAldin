@@ -1,5 +1,26 @@
 ## Hi there 👋
+## 🛠 Tech Stack
 
+**Languages**
+- Python
+- C , C++
+
+**AI / ML**
+- TensorFlow / TFLite
+- PyTorch
+- YOLO
+
+**Computer Vision**
+- OpenCV
+- Image Processing
+- OCR (Tesseract)
+
+**Embedded & Robotics**
+- Raspberry Pi
+- Jetson 
+- Intel RealSense D435i
+- Kinect
+- ROS2 / Nav2
 <!--
 **OmarEmadAldin/OmarEmadAldin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
