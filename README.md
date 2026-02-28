@@ -9,16 +9,26 @@
 - 📷 Computer Vision & Machine Learning  
 
 ---
+## ✨ Let's Connect!
 
-## 🌐 Connect With Me
+<p>
+I'm always open to collaborating on interesting projects or discussing new ideas.  
+Feel free to reach out!
+</p>
 
-
-<a href="https://www.linkedin.com/in/omar-emad-1582001obe/" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<p>
+<a href="https://www.linkedin.com/in/omar-emad-1582001obe/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.hackerrank.com/@omaremadeldinha1" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<a href="https://www.hackerrank.com/@omaremadeldinha1" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+</p>
 
 ---
 
