@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Emad Eldin</h1>
-<h1 align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Robotics%20Engineer&fontSize=40&fontColor=ffffff" /> </h1>
-
+<h1 align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Omar%20Emad&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Robotics%20Engineer%20|%20Computer%20Vision%20|%20Embedded%20AI&descAlignY=55&descAlign=50"/></h1>  
 ---
 
 ## 🚀 About Me
@@ -31,30 +30,21 @@ Feel free to reach out!
 </p>
 
 ---
-
 ## 🛠 Tech Stack
 
-### 👨‍💻 Programming
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-</p>
+<p align="left">
 
-### 🤖 Robotics & Vision
-<p>
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
-</p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" title="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" title="C++"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50" title="C"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="50" height="50" title="OpenCV"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="50" height="50" title="PyTorch"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50" height="50" title="TensorFlow"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" title="Git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" title="Linux"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" title="Docker"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" title="MySQL"/>
 
-### 🛠 Tools & Platforms
-<p>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 </p>
 
 ---
