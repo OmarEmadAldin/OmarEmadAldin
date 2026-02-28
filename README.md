@@ -13,7 +13,7 @@
 </a></p>
 <td>
 
-<img src="data1_v1.gif" width="650"/>
+<img src="data1_V1.gif" width="650"/>
 
 </td>
 
