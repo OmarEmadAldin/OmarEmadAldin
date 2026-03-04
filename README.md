@@ -53,6 +53,10 @@ Feel free to reach out!
 <p align="center">
   <img src="data1_V1.gif" width="700" />
 </p>
+<p align="center">
+  <img src="outpuit.gif" width="700" />
+</p>
+
 
 
 ---
