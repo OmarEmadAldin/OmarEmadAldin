@@ -53,8 +53,10 @@ Feel free to reach out!
 <p align="center">
   <img src="data1_V1.gif" width="700" />
 </p>
+---
+
 <p align="center">
-  <img src="outpuit.gif" width="700" />
+  <img src="output.gif" width="350" />
 </p>
 
 
