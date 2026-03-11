@@ -51,7 +51,7 @@ Feel free to reach out!
 
 ## 📊 Some Randoms
 <p align="center">
-  <img src="ml_algorithms_grid.gif" width="700" />
+  <img src="ml_algorithms_grid.gif" width="700" height="400" />
   <img src="data1_V1.gif" width="700" />
   <img src="output.gif" width="700" />
 </p>
